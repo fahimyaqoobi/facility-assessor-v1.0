@@ -1,0 +1,940 @@
+[
+  {
+    "Uniformat code": "A1010",
+    "uniformat name": "Standard Foundations",
+    "System NAME": "A1010 Standard Foundations",
+    "LIFETIME": 150,
+    "Description": "Description:\r\n2025 - Block and concrete foundation walls were observed around the building.\r\n\r\nCondition:\r\n2025 - The foundation walls were observed with localized spalled concrete. Corroded reinforcing steel was noted. The surface of the concrete block wall was observed to be spalled."
+  },
+  {
+    "Uniformat code": "A101004",
+    "uniformat name": "Standard Foundations Repairs",
+    "System NAME": "A101004 Standard Foundations Repairs - Crack Injection",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - This system crack injection is the preferred repair method for both cracks in horizontal concrete foundations, and vertical concrete surfaces. It also is used to eliminate moisture intrusion in cracks left from other foundation repairs\r\n\r\nCondition:\r\n2025 - Overall, the concrete foundation walls appear to be in a good condition. However, the above grade portion of the foundation wall has cracked, missing and delaminating parging.  Crack injection repairs are recommended."
+  },
+  {
+    "Uniformat code": "A101004",
+    "uniformat name": "Standard Foundations Repairs",
+    "System NAME": "A101004 Standard Foundations Repairs - Damp proofing Repairs",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Block and concrete foundation walls were observed around the building sections were protected with a damproofing, sections were not protected with a damproofing.\r\n\r\nCondition:\r\n2025 - The foundation walls were observed with localized spalled cement parging and finishes.  Efflorescence was observed . Water infiltration was reported.  Repair of deteriorated parging and concrete blocks is suggested.\r\n\r\n\r\n\r\n2025 - The foundation walls were observed with localized spalled concrete. Corroded reinforcing steel was noted. The surface of the concrete block wall was observed to be spalled.\r\n\r\n2025 - The foundation walls were observed with localized spalled cement parging.\r\n\r\n\r\n\r\n"
+  },
+  {
+    "Uniformat code": "A101004",
+    "uniformat name": "Standard Foundations Repairs",
+    "System NAME": "A101004 Standard Foundations Repairs - Parging repairs",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025- Block and concrete foundation walls were observed around the building protected with a cement parging.\r\n\r\nCondition:\r\n2025- The foundation walls were observed with localized spalled cement parging and finishes. Efflorescence was observed. The surface of the concrete block wall was observed to be spalled."
+  },
+  {
+    "Uniformat code": "A1030",
+    "uniformat name": "Slab on Grade",
+    "System NAME": "A1030 Slab on Grade",
+    "LIFETIME": 65,
+    "Description": "Description:\r\n2025 - The building substructure includes a structural slab on grade.\r\n\r\nCondition:\r\n2025 - The slab on grade was observed with localized spalling and cracking.  Efflorescence was observed."
+  },
+  {
+    "Uniformat code": "A2020",
+    "uniformat name": "Basement Walls",
+    "System NAME": "A2020 Basement Walls",
+    "LIFETIME": 150,
+    "Description": "Description:\r\n2025 - Block and concrete foundation walls were observed around the building.\r\n\r\nCondition:\r\n2025 - The foundation walls were observed with localized spalled cement parging and finishes.  Efflorescence was observed . Water infiltration was reported in the boiler room. A sump pump was previously reported as operational.\r\n\r\n\r\n\r\n2025 - The foundation walls were observed with localized spalled concrete. Corroded reinforcing steel was noted. The surface of the concrete block wall was observed to be spalled.\r\n\r\n2025 - The foundation walls were observed with localized spalled cement parging.\r\n\r\n\r\n\r\n"
+  },
+  {
+    "Uniformat code": "B1010",
+    "uniformat name": "Floor Construction",
+    "System NAME": "B101001 Structural Frame",
+    "LIFETIME": 150,
+    "Description": "Description:\r\n2025 - The structural system was observed to consist of a reinforced concrete frame work of columns, beams, slabs and corrugated shaped slabs. Steel beams were observed at slab edges.\r\n\r\nCondition:\r\n2025 - The concrete structure was observed to have localized spalled concrete and corroded steel reinforcing. The steel beam was observed with corrosion."
+  },
+  {
+    "Uniformat code": "B101008",
+    "uniformat name": "Floor Expansion Joints",
+    "System NAME": "B101008 Floor Expansion Joints",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - This system is designed to safely absorb the heat-induced expansion and contraction of construction materials, to absorb vibration, to hold parts together, or to allow movement due to ground settlement\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "B101010",
+    "uniformat name": "Autoclaved Aerated Concrete",
+    "System NAME": "B101010- Floor Construction - Autoclaved Aerated Concrete",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025- The observed areas featured Autoclaved Aerated Concrete (AAC) panels/blocks, a lightweight precast material known for its thermal insulation and fire resistance properties. The AAC elements were installed as part of the structural/enclosure system, possibly with a protective coating or finish.\r\n\r\nCondition:\r\n2025 - The AAC structure was observed to have localized surface erosion, cracking, and areas of spalled concrete. Some sections showed signs of moisture infiltration, and joint sealants were deteriorated or missing. Structural assessment and remedial repairs are recommended."
+  },
+  {
+    "Uniformat code": "B102010",
+    "uniformat name": "Autoclaved Aerated Concrete",
+    "System NAME": "B102010 - Roof Construction - Autoclaved Aerated Concrete",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Reinforced Autoclaved Aerated Concrete (RAAC) is a lightweight construction material used primarily in roofs, floors, and walls. Unlike standard concrete, it contains no aggregate, making it weaker and prone to deterioration over time.\r\nCondition:\r\n2025 - RAAC continues to pose risks in aging structures due to its degradation, increasing the likelihood of structural failure if not properly assessed and maintained. In many cases, its deterioration was not visible during assessments as it was covered under ACT (Acoustic Tile), further complicating detection and remediation efforts"
+  },
+  {
+    "Uniformat code": "B1030",
+    "uniformat name": "Structural Columns and Beams",
+    "System NAME": "B1030 Structural Columns and Beams",
+    "LIFETIME": 100,
+    "Description": "Description:\r\n2025 - The structural system was observed to consist of a reinforced concrete frame work of columns and beams.\r\n\r\nCondition:\r\n2025 - The concrete structure was observed to have localized spalled concrete and corroded steel reinforcing. The steel beam was observed with corrosion."
+  },
+  {
+    "Uniformat code": "B201011",
+    "uniformat name": "Exterior Walls - Joint Sealant",
+    "System NAME": "B201011 Exterior Walls - Joint Sealant",
+    "LIFETIME": 12,
+    "Description": "Description:\r\n2025 - The building exterior was observed to be protected with sealants around openings, between dissimilar materials and in control joints.\r\n\r\nCondition:\r\n2025 - The sealant in  joints was observed to be deteriorated, hardened and cracking.  Re-sealing is suggested."
+  },
+  {
+    "Uniformat code": "B201012",
+    "uniformat name": "Exterior Walls - EIFS",
+    "System NAME": "B201012 Exterior Walls - EIFS",
+    "LIFETIME": 35,
+    "Description": "Description:\r\n2025- The exterior walls included an (EIFS) exterior insulation and finishing system.\r\n\r\nCondition:\r\n2025- The (EIFS) exterior insulation and finishing system  was observed to be aged and deteriorated.  The finish had cracked and spalled. Sections of the metal substrate were exposed and corroded."
+  },
+  {
+    "Uniformat code": "B201013",
+    "uniformat name": "Exterior Walls - Glass block",
+    "System NAME": "B201013 Exterior Walls - Glass block",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - System is a translucent, hollow or solid block of glass for glazing openings or constructing partitions, usually square on the face, with the outer surfaces treated in any of various ways\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "B201014",
+    "uniformat name": "Exterior Walls - Masonry Re-pointing",
+    "System NAME": "B201014 Exterior Walls - Masonry Re-pointing",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - The walls were observed to consist of exterior brick veneer wall  and concrete masonry backup walls.\r\n\r\nCondition:\r\n2025 - The exterior brick veneer walls were observed to be aged and deteriorated with spalling brick and deteriorated mortar joints.  Re-pointing and localized brick replacement is suggested.\r\n\r\n\r\n\r\n"
+  },
+  {
+    "Uniformat code": "B201015",
+    "uniformat name": "Exterior Walls - Metal Siding",
+    "System NAME": "B201015 Exterior Walls - Metal Siding",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - The penthouse walls were observed to be constructed of metal siding.\r\n\r\nCondition:\r\n2025 - The metal siding was observed to be corroded.  Replacement of metal siding is suggested."
+  },
+  {
+    "Uniformat code": "B201016",
+    "uniformat name": "Exterior Walls - Precast Wall Panels",
+    "System NAME": "B201016 Exterior Walls - Precast Wall Panels",
+    "LIFETIME": 50,
+    "Description": "Description:\r\n2025 - Architectural concrete walls. The exterior walls were observed to be constructed of reinforced concrete as well as precast concrete panels protected with sealants.\r\n\r\nCondition:\r\n2025 - The sealants in the control joints and between the precast panels were observed to be aged and deteriorated. Several panels were observed with spalled concrete pieces. Corroded steel precast fastening plates were observed.  Several panels were observed to be out of plumb."
+  },
+  {
+    "Uniformat code": "B201017",
+    "uniformat name": "Exterior Walls - Stucco",
+    "System NAME": "B201017 Exterior Walls - Stucco",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - The exterior walls included an (EIFS) exterior insulation and finishing system.\r\n\r\nCondition:\r\n2025 - The (EIFS) exterior insulation and finishing system  was observed to be aged and deteriorated.  The finish had cracked and spalled. Sections of the metal substrate were exposed and corroded."
+  },
+  {
+    "Uniformat code": "B201018",
+    "uniformat name": "Exterior Walls - Vinyl Siding",
+    "System NAME": "B201018 Exterior Walls - Vinyl Siding",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - This system is plastic exterior siding  used for decoration and weatherproofing, imitating wood clapboard, and used instead of other materials such as aluminum or fiber cement siding.\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "B201019",
+    "uniformat name": "Exterior Walls - Brick",
+    "System NAME": "B201019 Exterior Walls - Brick",
+    "LIFETIME": 50,
+    "Description": "Description:\r\n2025 - The majority of the building's exterior wall system is constructed of brick veneer. This system of repointing is the process of renewing the pointing (the external part of mortar joints) in masonry construction.\r\n\r\nCondition:\r\n2025 - The exterior wall system is generally aged. Evidence of brick veneer spalling and efflorescence was observed at some places. Some of the brick mortar joints are cracked or missing."
+  },
+  {
+    "Uniformat code": "B201020",
+    "uniformat name": "Exterior Walls - Granular impregnated wall board",
+    "System NAME": "B201020 Exterior Walls - Granular impregnated wall board",
+    "LIFETIME": 12,
+    "Description": "Description:\r\n2025 - Exterior brick veneer wall with granular impregnated wall board panels on metal furring and CMU backup walls.\r\n\r\nCondition:\r\n2025 - The exterior granular panel walls were observed to be deteriorated with spalling and deteriorated mortar joints. Replacement of wall boards is suggested"
+  },
+  {
+    "Uniformat code": "B201021",
+    "uniformat name": "Exterior Walls - Curtain Wall System",
+    "System NAME": "B201021 Exterior Walls - Curtain Wall System",
+    "LIFETIME": 50,
+    "Description": "Description:\r\n2025 - System is an outer covering of the building in which the outer walls are non-structural, but merely keep the weather out and the occupants in. As the curtain wall is non-structural it can be made of a lightweight material, reducing construction costs.\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "B2020",
+    "uniformat name": "Exterior Windows",
+    "System NAME": "B2020 Exterior Windows",
+    "LIFETIME": 32,
+    "Description": "Description:\r\n2025 - The original building windows were observed to be single glazed single sash as well as double sash double glazed installed in metal frames.  The operable units were observed to be a vertical sliding style.\r\n\r\nCondition:\r\n2025 - The exterior windows were reported to be aged worn and deteriorated. Several window units were observed to have failed. The window sealant was observed to be aged and brittle."
+  },
+  {
+    "Uniformat code": "B202005",
+    "uniformat name": "Exterior Windows - Sealant Replacement",
+    "System NAME": "B202005 Exterior Windows - Sealant Replacement",
+    "LIFETIME": 12,
+    "Description": "Description:\r\n2025 - Window assemblies would include caulking between the brick envelope and the window. If the caulking has failed, water will be able to infiltrate the exterior wall and degrade interior finishes.\r\n\r\nCondition:\r\n2025 - The window assemblies in the most recent addition have seals that have deteriorated. Replacement is warranted in order to maintain integrity of building envelope.\r\n"
+  },
+  {
+    "Uniformat code": "B2030",
+    "uniformat name": "Exterior Doors",
+    "System NAME": "B2030 Exterior Doors - Hollow Metal",
+    "LIFETIME": 15,
+    "Description": "Description\r\n2025- Assemblies include exterior steel or aluminum hollow metal glazed and flush door leafs with finished steel or aluminum frames.\r\n\r\nCondition:\r\n2025 - The original exterior door assemblies were aged and worn beyond useful life with worn finishes, corroded frames, and deteriorated door seals.  Replacement of the door assemblies is suggested."
+  },
+  {
+    "Uniformat code": "B2030",
+    "uniformat name": "Exterior Doors",
+    "System NAME": "B2030 Exterior Doors - Revolving Doors",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Three-wing & Four-wing type revolving door; manual, power-assisted operation. Includes door leafs, glazing, frame, mounting hardware.\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "B2030",
+    "uniformat name": "Exterior Doors",
+    "System NAME": "B2030 Exterior Doors - Wood/Aluminum Framed Glass Double Door",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - The exterior doors and frames were observed to be aluminum with single glazing.\r\n\r\nCondition: 2025 - The exterior doors were observed to be aged and worn beyond useful life with corrosion and chipped finishes.  Replacement is suggested.\r\n"
+  },
+  {
+    "Uniformat code": "B203004",
+    "uniformat name": "Exterior Doors - Overhead and Roll-up",
+    "System NAME": "B203004 Exterior Doors - Overhead and Roll - up",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Exterior painted overhead sectional doors were observed.\r\n\r\nCondition:\r\n2025 - The exterior overhead doors were observed to be aged and worn beyond useful life with corrosion and chipped finishes.\r\n"
+  },
+  {
+    "Uniformat code": "B203008",
+    "uniformat name": "Exterior Doors - Hardware",
+    "System NAME": "B203008 Exterior Doors - Hardware",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Exterior door hardware was observed to consist of panic bars, push bars, kick plates, butt hinges, door pulls and aluminum thresholds. \r\n\r\nCondition:\r\n2025 - The exterior door hardware was observed to be aged and worn. Corrosion was noted on various components. Replacement is suggested."
+  },
+  {
+    "Uniformat code": "B203009",
+    "uniformat name": "Exterior Doors - Barrier Free Hardware",
+    "System NAME": "B203009 Exterior Doors - Barrier Free Hardware",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Accessibility  compliant barrier-free hardware and associated work.\r\n\r\nCondition:\r\n2025 -The exterior barrier-free hardware was observed to be aged."
+  },
+  {
+    "Uniformat code": "B3010",
+    "uniformat name": "Roof Coverings",
+    "System NAME": "B3010 Roof Coverings - Asphalt Shingled Roof",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Asphalt shingles were observed\r\n\r\nCondition:\r\n2025 - Asphalt shingles were observed to be aged worn and deteriorated.  Cupping and missing shingles were noted.  Replacement is suggested."
+  },
+  {
+    "Uniformat code": "B3010",
+    "uniformat name": "Roof Coverings",
+    "System NAME": "B3010 Roof Coverings - BUR/EPDM/Inverted/Vinyl",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - The roof areas noted were observed with conventional built up roof assemblies (BUR), with a pea gravel topcoat, possibly installed over insulation.\r\n\r\nCondition:\r\n2025 - The BUR assembly was observed to be  aged and worn with displaced ballast due to wind scouring and bleed through.  Patches, ridges, deteriorated flexible flashings with open joints, and pitch pockets with brittle sealant were deficiencies noted.  The roof areas noted were observed to be leaking.  The roof area had standing water, the roof drain did not appear to be working.  Roof replacement is suggested."
+  },
+  {
+    "Uniformat code": "B3010",
+    "uniformat name": "Roof Coverings",
+    "System NAME": "B3010 Roof Coverings - Metal Roof Assembly System",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - The roof assembly was observed to be a standing seam painted metal roof.\r\n\r\nCondition:\r\n2025 - The metal roof was observed to be aged and corroded. Roof replacement is suggested."
+  },
+  {
+    "Uniformat code": "B302006",
+    "uniformat name": "Roof Openings - Skylight",
+    "System NAME": "B302006 Roof Openings - Skylight",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - Aluminum framed skylights were observed\r\n\r\nCondition:\r\n2025 - The skylights were observed to be aged worn and deteriorated with corroded components failed glass units noted and leaking reported.  Replacement is suggested.\r\n"
+  },
+  {
+    "Uniformat code": "B302006",
+    "uniformat name": "Roof Openings - Skylight",
+    "System NAME": "B302006 Roof Openings - Skylights Domed Acrylic",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - Domed acrylic skylights were observed.\r\n\r\nCondition:\r\n2025 - The skylights were observed to be aged worn and deteriorated with corroded components failed glass units noted and leaking reported.  Replacement is suggested.\r\n"
+  },
+  {
+    "Uniformat code": "B308020",
+    "uniformat name": "Exterior Soffits",
+    "System NAME": "B308020 Exterior Soffits",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Exposed ceiling surface of overhead building elements such as roof eaves, projecting or overhanging floors, and exposed floor surfaces.\r\nCondition:\r\n2025 - Exterior soffit finish was observed to be aged, and the finish spalled."
+  },
+  {
+    "Uniformat code": "C1010",
+    "uniformat name": "Partitions",
+    "System NAME": "C1010 Partitions",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - The interior partitions were observed to include, plaster, gypsum board, brick and concrete block masonry units.  Partitions around service rooms such as electrical rooms, gas fired boiler rooms are required to be fire separations with a fire resistance rating.\r\n\r\nCondition:\r\n2025 - The concrete block partitions were observed to be locally cracked along joints and penetrated with pipes and conduits with out fire stopping.\r\n\r\n"
+  },
+  {
+    "Uniformat code": "C101003",
+    "uniformat name": "Partitions - Moveable",
+    "System NAME": "C101003 Partitions - Moveable - Curtain Partition (GYM)",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - A moveable gymnasium partition wall was observed. 2025 - A manual folding accordion partition was observed located in the library.\r\n\r\nCondition:\r\n 2025 - The moveable folding partition was observed to be aged and worn beyond useful life with  peeling, and damaged finishes.\r\n"
+  },
+  {
+    "Uniformat code": "C101003",
+    "uniformat name": "Partitions - Moveable",
+    "System NAME": "C101003 Partitions - Moveable - Foldable Partition (Classroom)",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Moveable folding partitions separating the teaching stations, classrooms were observed.\r\n\r\nCondition:\r\n2025 - Moveable folding partitions separating the open classrooms were observed to be aged worn and damaged."
+  },
+  {
+    "Uniformat code": "C101003",
+    "uniformat name": "Partitions - Moveable",
+    "System NAME": "C101003 Partitions - Moveable - Foldable Partition (GYM)",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Assemblies would include all retractable or folding partitions and associated work including tracks and anchoring systems.\r\n\r\nCondition:\r\n2025 - Folding partition has achieved it's anticipated life. The partition is in overall fair condition.\r\n"
+  },
+  {
+    "Uniformat code": "C1020",
+    "uniformat name": "Interior Doors",
+    "System NAME": "C1020 Interior Doors - Hollow Metal / Wood Single Door",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Interior doors were observed to include finished wood veneer solid core wood doors and painted metal doors hung in painted metal frames.  Some doors were observed with Georgian wired glazing.\r\n\r\nCondition:\r\n2025 - The doors were observed to be aged and worn beyond useful life. Wood doors had damaged veneers, painted metal doors had chipped paint."
+  },
+  {
+    "Uniformat code": "C102005",
+    "uniformat name": "Interior Doors - Overhead",
+    "System NAME": "C102005 Interior Doors - Overhead",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Exterior painted overhead sectional doors were observed.\r\n\r\nCondition:\r\n2025 - The exterior overhead doors were observed to be aged and worn beyond useful life with corrosion and chipped finishes.\r\n"
+  },
+  {
+    "Uniformat code": "C102007",
+    "uniformat name": "Interior Doors - Hardware",
+    "System NAME": "C102007 Interior Doors - Hardware",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Interior door hardware was observed to consist of push bars, knob handles, push plates, kick plates, butt hinges and door closers\r\n\r\nCondition:\r\n2025 - The interior door hardware was observed to be aged, worn and deteriorated.  Corrosion was noted on various components. "
+  },
+  {
+    "Uniformat code": "C102009",
+    "uniformat name": "Interior Doors - Barrier Free Hardware",
+    "System NAME": "C102009 Interior Doors - Barrier Free Hardware",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - ADA-compliant barrier-free hardware and associated work.\r\n\r\nCondition:\r\n2025 -The Interior Barrier Free Hardware was observed to be aged."
+  },
+  {
+    "Uniformat code": "C1030",
+    "uniformat name": "Fittings",
+    "System NAME": "C1030 - Fittings - Washroom",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Assemblies include individual compartments, cubicles, toilet partitions,  urinal screens and washroom accessories.\r\n\r\nCondition:\r\n2025 - Washroom partitions are approaching the end of their anticipated life. Although operational, replacement is warranted.\r\n"
+  },
+  {
+    "Uniformat code": "C103001",
+    "uniformat name": "Fittings - Washroom Partitions",
+    "System NAME": "C103001 Fittings - Washroom Partitions - Urinal",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - Assemblies include individual compartments, cubicles, toilet partitions, and urinal screens and other associated work.\r\n\r\nCondition:\r\n2025 - Washroom partitions are approaching the end of their anticipated life. Although operational, replacement is warranted.\r\n"
+  },
+  {
+    "Uniformat code": "C103001",
+    "uniformat name": "Fittings - Washroom Partitions",
+    "System NAME": "C103001 Fittings - Washroom Partitions - Water Closet",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - Painted metal washroom partitions were observed in the building washrooms.\r\n\r\nCondition:\r\n2025 - The painted metal washroom partitions were observed to be aged and worn. Corrosion, damaged finishes and missing hardware was noted. Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103002",
+    "uniformat name": "Fittings - Washroom Accessories",
+    "System NAME": "C103002 Fittings - Washroom Accessories",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Washroom accessories include the following; individual compartments, soap, toilet roll, towel, and sanitary napkin dispensers, hand dryers, garbage bins and mirrors .\r\n\r\nCondition:\r\n2025 - The accessories were observed to be aged with deteriorated finishes noted.  Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103003",
+    "uniformat name": "Fittings - Chalk/White Boards",
+    "System NAME": "C103003 Fittings - Chalk/White Boards",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - A Chalkboard is a large board with a smooth, typically dark surface attached to a wall. The whiteboard is a wipeable board with a white surface that uses special markers to write with\r\n\r\nCondition:\r\n2025 - Chalkboards have exceeded their anticipated life and are showing signs of damage."
+  },
+  {
+    "Uniformat code": "C103005",
+    "uniformat name": "Fittings - Lockers",
+    "System NAME": "C103005 Fittings - Lockers",
+    "LIFETIME": 35,
+    "Description": "Description:\r\n2025 - Metal lockers were observed  in corridors.\r\n\r\nCondition:\r\n2025 - The metal lockers were observed to be aged worn and deteriorated.  Dented metal doors, corroded and chipped surfaces were observed.  Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103009",
+    "uniformat name": "Fittings - Millwork",
+    "System NAME": "C103009 Fittings - Millwork - Classrooms",
+    "LIFETIME": 40,
+    "Description": "Description:\r\n2025 - Classroom millwork was observed to include wood cabinetry, and plastic laminate counters and countertops. \r\n\r\nCondition:\r\n2025 - The millwork was observed to be aged and worn. Damaged laminates and veneers were noted.  Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103009",
+    "uniformat name": "Fittings - Millwork",
+    "System NAME": "C103009 Fittings - Millwork - Laboratories",
+    "LIFETIME": 40,
+    "Description": "Description:\r\n2025 - Classroom laboratory millwork was observed to include wood cabinetry, and plastic laminate counters and countertops. \r\n\r\nCondition:\r\n2025 - The millwork was observed to be aged and worn. Damaged laminates and veneers were noted.  Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103013",
+    "uniformat name": "Fittings - Retractable Stage (Raised Access Floor)",
+    "System NAME": "C103013 Fittings - Retractable Stage (Raised Access Floor)",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - A motorized, retractable stage was observed in the gymnasium.\r\n\r\nCondition:\r\n2025 - The wood surface of the stage was observed to be aged and worn.  Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103016",
+    "uniformat name": "Fittings - Bleachers",
+    "System NAME": "C103016 Fittings - Bleachers",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Retractable wooden bleachers were observed in the double gymnasium.\r\n\r\nCondition:\r\n2025 - The retractable bleachers were observed to be aged and worn with deteriorated wood finishes noted.   Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103017",
+    "uniformat name": "Fittings - Auditorium Seating",
+    "System NAME": "C103017 Fittings - Auditorium Seating",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Auditorium seating was observed to be padded.\r\n\r\nCondition:\r\n2025 - Auditorium seating was observed to be aged worn and deteriorated.   Replacement is suggested."
+  },
+  {
+    "Uniformat code": "C103018",
+    "uniformat name": "Fittings - Window Coverings",
+    "System NAME": "C103018 Fittings - Window Coverings",
+    "LIFETIME": 18,
+    "Description": "Description:\r\n2025 - System provides interior window coverings, associated hardware and controls at each exterior window and at any interior view window where privacy may be required.\r\n\r\nCondition:\r\n2025 - Window coverings have exceeded their anticipated life and are showing signs of damage."
+  },
+  {
+    "Uniformat code": "C2010",
+    "uniformat name": "Stair Construction",
+    "System NAME": "C2010 - Stair Construction - Interior Ramps",
+    "LIFETIME": 40,
+    "Description": "Description:\r\n2025 - The interior ramps were observed to be integrated concrete with metal hand railings.\r\n\r\nCondition:\r\n2025 - The interior ramps were observed to be aged and worn."
+  },
+  {
+    "Uniformat code": "C2010",
+    "uniformat name": "Stair Construction",
+    "System NAME": "C2010 Stair Construction - Metal framed and concrete framed",
+    "LIFETIME": 40,
+    "Description": "Description:\r\n2025 - The stairs were observed to be steel framed with cement treads and non slip nosing strips.  Stairs include two flights and one landing.\r\n\r\nCondition:\r\n2025 - The steel stairs were observed to be aged and worn with rusted steel components and worn out non slip nosing strips.  Replacement of stairs is suggested."
+  },
+  {
+    "Uniformat code": "C2020",
+    "uniformat name": "Stair Finishes",
+    "System NAME": "C2020 Stair Finishes - Anti-skid tape",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - The stairs were observed to be steel framed with cement treads and non slip nosing strips.\r\n\r\nCondition:\r\n2025 - The steel stairs were observed to be aged and worn with rusted steel components and worn out non slip nosing strips."
+  },
+  {
+    "Uniformat code": "C301002",
+    "uniformat name": "Wall Finishes - Plaster",
+    "System NAME": "C301002 Wall Finishes - Plaster",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 -  Interior painted wall finishes were observed to include, concrete block, plaster and gypsum wallboard surfaces.\r\n\r\nCondition:\r\n2025 - The interior wall finishes were observed to be aged and worn.  Spalling, peeling, marks, chips and discolouration were deficiencies noted on wall surfaces.\r\n"
+  },
+  {
+    "Uniformat code": "C301003",
+    "uniformat name": "Wall Finishes - Gypsum",
+    "System NAME": "C301003 Wall Finishes - Gypsum",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 -  Interior painted wall finishes were observed to include, concrete block, plaster and gypsum wallboard surfaces.\r\n\r\nCondition:\r\n2025 - The interior wall finishes were observed to be aged and worn.  Spalling, peeling, marks, chips and discolouration were deficiencies noted on wall surfaces.\r\n"
+  },
+  {
+    "Uniformat code": "C301004",
+    "uniformat name": "Wall Finishes - Ceramic",
+    "System NAME": "C301004 Wall Finishes - Ceramic",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - This assembly includes ceramic tile and associated work that are applied directly to an interior wall surface.\r\n\r\nCondition:\r\n2025 - Ceramic tile has exceeded its anticipated life."
+  },
+  {
+    "Uniformat code": "C301005",
+    "uniformat name": "Wall Finishes - Paint",
+    "System NAME": "C301005 Wall Finishes - Paint",
+    "LIFETIME": 5,
+    "Description": "Description:\r\n2025 - Interior painted wall finishes were observed to include concrete block, plaster and gypsum wallboard surfaces.\r\n\r\nCondition:\r\n2025 - The interior wall finishes were observed to be aged and worn.  Spalling, peeling, marks, chips, and discolouration were deficiencies noted on wall surfaces."
+  },
+  {
+    "Uniformat code": "C301006",
+    "uniformat name": "Wall Finishes - Vinyl (Wall Paper)",
+    "System NAME": "C301006 Wall Finishes - Vinyl (Wall Paper)",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - This assembly includes wall  coverings and protective strips applied directly to an interior wall surface.\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301007",
+    "uniformat name": "Wall Finishes - Acoustic Panel",
+    "System NAME": "C301007 Wall Finishes - Acoustic Panel",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Acoustic perforated wall panels were observed in the classrooms\r\n\r\nCondition:\r\n2025 - Acoustic wall panels were observed to be aged and deteriorated with surface damage"
+  },
+  {
+    "Uniformat code": "C301009",
+    "uniformat name": "Wall Finishes - Terrazzo",
+    "System NAME": "C301009 Wall Finishes - Terrazzo",
+    "LIFETIME": 50,
+    "Description": "Description:\r\n2025 - Assemblies include cast and precast Terrazzo wall finishes, wall base and associated work\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301011",
+    "uniformat name": "Wall Finishes - Quarry Tile",
+    "System NAME": "C301011 Wall Finishes - Quarry Tile",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Assemblies include quarry tile wall,  wall base and associated work\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301012",
+    "uniformat name": "Wall Finishes - Porcelain",
+    "System NAME": "C301012 Wall Finishes - Porcelain",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 -Thin set ceramic wall tiles were observed on washroom walls.\r\n\r\nCondition:\r\n2025 - The ceramic wall tiles in the washroom areas were observed to be locally cracked.\r\n\r\n"
+  },
+  {
+    "Uniformat code": "C301013",
+    "uniformat name": "Wall Finishes - Granite",
+    "System NAME": "C301013 Wall Finishes - Granite",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - Assemblies include granite wall tile, wall base and associated work\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301014",
+    "uniformat name": "Wall Finishes - Marble",
+    "System NAME": "C301014 Wall Finishes - Marble",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - Assemblies include marble wall tile, wall base and associated work\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301015",
+    "uniformat name": "Wall Finishes - Brick",
+    "System NAME": "C301015 Wall Finishes - Brick",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - Assemblies include natural brick wall tile, wall base and associated work\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301016",
+    "uniformat name": "Wall Finishes - Wood Panel",
+    "System NAME": "C301016 Wall Finishes - Wood Panel",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - This assembly includes interior wall finishes that include economy grade raised wood panelling.\r\n\r\nCondition:\r\n2025 -The interior wood panelling wall finishes were observed to be aged."
+  },
+  {
+    "Uniformat code": "C301017",
+    "uniformat name": "Wall Finishes - Stucco",
+    "System NAME": "C301017 Wall Finishes - Stucco",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - This system is a durable finish for interior usually composed of material made of an aggregate, a binder, and water and is applied while wet\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301018",
+    "uniformat name": "Wall Finishes - Glazed",
+    "System NAME": "C301018 Wall Finishes - Glazed",
+    "LIFETIME": 50,
+    "Description": "Description:\r\n2025 - System is a regular concrete block with a tile-like surface permanently fixed onto one or more faces. A composite of glass, pigments, and binder is injected or molded onto the surface of a cured concrete block, creating a glazed finished face.\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C301019",
+    "uniformat name": "Wall Finishes - Waterproof Membrane",
+    "System NAME": "C301019 Wall Finishes - Waterproof Membrane",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - The system includes sheet-applied polyethylene waterproofing membrane and vapor retarder\r\n\r\nCondition:\r\n2025 - The membrane is past its anticipated life and is worn off or peeling in places."
+  },
+  {
+    "Uniformat code": "C3020",
+    "uniformat name": "Floor Finishes",
+    "System NAME": "C3020 Floor Finishes - Raised Floor System",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - System provides an elevated structural floor above a solid substrate (often a concrete slab) to create a hidden void for the passage of mechanical and electrical services.\r\n\r\nCondition:\r\n2025 - "
+  },
+  {
+    "Uniformat code": "C302001",
+    "uniformat name": "Floor Finishes - Ceramic",
+    "System NAME": "C302001 Floor Finishes - Ceramic",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Ceramic floor tiles were observed.\r\n\r\nCondition:\r\n2025 - Floor tiles were observed to be cracked locally, staining, discoloration and deterioration were noted on the ceramic tiles ."
+  },
+  {
+    "Uniformat code": "C302002",
+    "uniformat name": "Floor Finishes - Terrazzo",
+    "System NAME": "C302002 Floor Finishes - Terrazzo",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - Cast in place concrete terrazzo flooring with cove base was observed. \r\n\r\nCondition:\r\n2025 - The cast in place terrazzo flooring was observed with cracks in localized areas."
+  },
+  {
+    "Uniformat code": "C302003",
+    "uniformat name": "Floor Finishes - Wood",
+    "System NAME": "C302003 Floor Finishes - Wood",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Hardwood flooring was observed in the gymnasium and on the stage.\r\n\r\nCondition:\r\n2025 - The hardwood flooring was observed to be aged and worn.  The floor was reported and observed to be lifting and uneven. Scratches and a deteriorated finish were noted."
+  },
+  {
+    "Uniformat code": "C302004",
+    "uniformat name": "Floor Finishes - Vinyl Tile",
+    "System NAME": "C302004 Floor Finishes - Vinyl Tile",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Vinyl composite floor tile was observed in the school.\r\n\r\nCondition:\r\n2025 - The vinyl composite floor tile was observed to be aged and worn. The tiles were chipped, cracked, no longer bonded and bent out of shape.  "
+  },
+  {
+    "Uniformat code": "C302005",
+    "uniformat name": "Floor Finishes - Carpet",
+    "System NAME": "C302005 Floor Finishes - Carpet",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - Carpet floor covering in was observed in the library and offices.\r\n\r\nCondition:\r\n2025 - The carpet floor  was observed to be aged and worn with stains and tears noted."
+  },
+  {
+    "Uniformat code": "C302006",
+    "uniformat name": "Floor Finishes - Masonry and Stone",
+    "System NAME": "C302006 Floor Finishes - Masonry and Stone",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - A masonry and stone floor finishes were observed.\r\n\r\nCondition:\r\n2025 -  The masonry and stone floors are beyond useful life and should be considered for replacement.\r\n"
+  },
+  {
+    "Uniformat code": "C302007",
+    "uniformat name": "Floor Finishes - Painted Sealed Concrete",
+    "System NAME": "C302007 Floor Finishes - Painted Sealed Concrete",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Assemblies include painted and stained concrete floor surfaces.\r\n\r\nCondition:\r\n2025 - Paint is past its anticipated life and is worn off or peeling in places.\r\n"
+  },
+  {
+    "Uniformat code": "C302011",
+    "uniformat name": "Floor Finishes - Quarry Tile",
+    "System NAME": "C302011 Floor Finishes - Quarry Tile",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Assemblies include quarry tile flooring and wall base and associated work - largely located in corridors.\r\n\r\nCondition:\r\n2025 - Although still functional, tile has exceeded its anticipated life. Some tiles are broken and grout is damaged in some areas.\r\n"
+  },
+  {
+    "Uniformat code": "C302012",
+    "uniformat name": "Floor Finishes - Porcelain",
+    "System NAME": "C302012 Floor Finishes - Porcelain",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Porcelain tile floor finishes were observed.\r\n\r\nCondition:\r\n2025 -  Porcelain tile floors are beyond useful life and should be considered for replacement.\r\n"
+  },
+  {
+    "Uniformat code": "C302013",
+    "uniformat name": "Floor Finishes - Granite",
+    "System NAME": "C302013 Floor Finishes - Granite",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - Granite tile floor finishes were observed.\r\n\r\nCondition:\r\n2025 -  Granite tile floors are beyond useful life and should be considered for replacement.\r\n"
+  },
+  {
+    "Uniformat code": "C302014",
+    "uniformat name": "Floor Finishes - Marble",
+    "System NAME": "C302014 Floor Finishes - Marble",
+    "LIFETIME": 75,
+    "Description": "Description:\r\n2025 - Marble tile floor finishes were observed.\r\n\r\nCondition:\r\n2025 -  Marble tile floors are beyond useful life and should be considered for replacement.\r\n"
+  },
+  {
+    "Uniformat code": "C302015",
+    "uniformat name": "Floor Finishes - Vinyl Sheet",
+    "System NAME": "C302015 Floor Finishes - Vinyl Sheet",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Vinyl sheet was observed throughout the corridors.\r\n\r\nCondition:\r\n2025 - Vinyl sheet flooring with vinyl base was observed to be aged and worn with open seams."
+  },
+  {
+    "Uniformat code": "C302016",
+    "uniformat name": "Floor Finishes - Rubber",
+    "System NAME": "C302016 Floor Finishes - Rubber",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Rubber sheet goods were observed in the gymnasium. \r\n\r\nCondition:\r\n2025 - The rubber floor was observed to be aged deteriorated and damaged."
+  },
+  {
+    "Uniformat code": "C302017",
+    "uniformat name": "Floor Finishes - Composite",
+    "System NAME": "C302017 Floor Finishes - Composite",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Composite floor finishes were observed.\r\n\r\nCondition:\r\n2025 -  Composite floors are beyond useful life and should be considered for replacement.\r\n"
+  },
+  {
+    "Uniformat code": "C302019",
+    "uniformat name": "Floor Finishes - Waterproof Membrane",
+    "System NAME": "C302019 Floor Finishes - Waterproof Membrane",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Assemblies include sealers and hardeners floor surfaces.\r\n\r\nCondition:\r\n2025 -The floor surface is past its anticipated life and is worn off or peeling."
+  },
+  {
+    "Uniformat code": "C302020",
+    "uniformat name": "Floor Finishes - Control Joints",
+    "System NAME": "C302020 Floor Finishes - Control Joints",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Assembly included expansion joint systems that are used to bridge the gap and restore building assembly functions while accommodating expected movements.\r\n\r\nCondition:\r\n2025 - The sealant in joints was observed to be deteriorated, hardened and cracking.  Re-sealing is suggested."
+  },
+  {
+    "Uniformat code": "C302099",
+    "uniformat name": "Floor Finishes - Other",
+    "System NAME": "C302099 Floor Finishes - Other",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - \r\n\r\nCondition:\r\n2025 - \r\n"
+  },
+  {
+    "Uniformat code": "C303002",
+    "uniformat name": "Ceiling Finishes - Plaster",
+    "System NAME": "C303002 Ceiling Finishes - Plaster",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Lath and plaster ceilings with a paint finish were observed.\r\n\r\nCondition:\r\n2025 - Lath and plaster ceilings were observed to be water damaged.\r\n"
+  },
+  {
+    "Uniformat code": "C303003",
+    "uniformat name": "Ceiling Finishes - Gypsum",
+    "System NAME": "C303003 Ceiling Finishes - Gypsum",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Gypsum ceilings with a paint finish were observed.\r\n\r\nCondition:\r\n2025 - Gypsum ceilings were observed to be water damaged.\r\n"
+  },
+  {
+    "Uniformat code": "C303004",
+    "uniformat name": "Ceiling Finishes - Acoustic",
+    "System NAME": "C303004 Ceiling Finishes - Acoustic",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - An acoustical suspended ceiling tile system was observed.\r\n\r\nCondition:\r\n2025 - The ACT suspended ceiling system was observed to be aged worn deteriorated stained and uneven.  "
+  },
+  {
+    "Uniformat code": "C303005",
+    "uniformat name": "Ceiling Finishes - Wood",
+    "System NAME": "C303005 Ceiling Finishes - Wood",
+    "LIFETIME": 50,
+    "Description": "Description:\r\n2025 - Wood ceilings with a paint finish were observed.\r\n\r\nCondition:\r\n2025 - Wood ceilings were observed to be water damaged.\r\n"
+  },
+  {
+    "Uniformat code": "C303006",
+    "uniformat name": "Ceiling Finishes - Paint",
+    "System NAME": "C303006 Ceiling Finishes - Paint",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - A  painted finish was observed to the exposed ceiling structure.\r\n\r\nCondition:\r\n2025 - The painted ceiling was observed to be aged and deteriorated."
+  },
+  {
+    "Uniformat code": "C303008",
+    "uniformat name": "Ceiling Finishes - Metal",
+    "System NAME": "C303008 Ceiling Finishes - Metal",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Metal ceilings with a paint finish were observed.\r\n\r\nCondition:\r\n2025 - Metal ceilings were observed to be water damaged.\r\n"
+  },
+  {
+    "Uniformat code": "G201003",
+    "uniformat name": "Roadways - Paved",
+    "System NAME": "G201003 Roadways - Paved - Concrete Paved Roadway",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - A concrete paved roadway and drop off area was observed.\r\n\r\nCondition:\r\n2025 - The concrete roadway was observed to be aged and worn. Alligator cracking and uneven surfaces were noted. "
+  },
+  {
+    "Uniformat code": "G201003",
+    "uniformat name": "Roadways - Paved",
+    "System NAME": "G201003 Roadways - Paved - Reconstruct Asphalt Paved Roadway",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - An asphalt paved roadway and drop off area was observed.\r\n\r\nCondition:\r\n2025 - The asphalt paved roadway was observed to be aged and worn. Alligator cracking and uneven surfaces were noted. "
+  },
+  {
+    "Uniformat code": "G201003",
+    "uniformat name": "Roadways - Paved",
+    "System NAME": "G201003 Roadways - Paved - Resurface Asphalt Paved Roadway",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - An asphalt paved roadway and drop off area was observed at the front of the school.\r\n\r\nCondition:\r\n2025 - The asphalt paved roadway was observed to be aged and worn. Alligator cracking and uneven surfaces were noted."
+  },
+  {
+    "Uniformat code": "G201010",
+    "uniformat name": "Roadways - Unpaved",
+    "System NAME": "G201010 Roadways - Unpaved",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 -  A gravel parking lot is situated along the school.\r\n\r\nCondition:\r\n2025 - The gravel parking lot was observed to be aged and worn with pot holes and uneven surface.\r\n"
+  },
+  {
+    "Uniformat code": "G202003",
+    "uniformat name": "Parking Lots - Paved",
+    "System NAME": "G202003 Parking Lots - Paved  - Reconstruct Asphalt Paved Parking Area",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - An asphalt paved parking lot was observed. \r\n\r\nCondition:\r\n2025 -  The gravel parking lot was observed to be aged and worn with pot holes and uneven surface.\r\n"
+  },
+  {
+    "Uniformat code": "G202003",
+    "uniformat name": "Parking Lots - Paved",
+    "System NAME": "G202003 Parking Lots - Paved  - Resurface Asphalt Paved Parking Area",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - An asphalt paved parking lot was observed west of the school.\r\n\r\nCondition:\r\n2025 - The asphalt paved parking lot was observed to be aged and worn with, alligator cracking, uneven surfaces and non-visible line painting. "
+  },
+  {
+    "Uniformat code": "G202003",
+    "uniformat name": "Parking Lots - Paved",
+    "System NAME": "G202003 Parking Lots - Paved - Concrete Paved",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - A concrete paved parking lot was observed.\r\n\r\nCondition:\r\n2025 - The concrete parking lot was observed to be aged and worn. Alligator cracking and uneven surfaces were noted. "
+  },
+  {
+    "Uniformat code": "G202010",
+    "uniformat name": "Parking Lots - Unpaved",
+    "System NAME": "G202010 Parking Lots - Unpaved",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - Gravel parking lot situated along the south side of the school\r\n\r\nCondition:\r\n2025 - The gravel parking lot was observed to be aged and worn with pot holes and uneven surface."
+  },
+  {
+    "Uniformat code": "G203003",
+    "uniformat name": "Pedestrian Paving - Paved",
+    "System NAME": "G203003 Pedestrian Paving - Asphalt Paved Walkway",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - Stone, concrete paving stone and asphalt paved playing areas, patios and sidewalks were observed situated around the perimeter of the building. 2025 - Asphalt paved sidewalks were observed situated around the perimeter of the building. \r\n\r\nCondition:\r\n2025 - Stone, concrete paving stone and asphalt paved playing areas, patios and sidewalks were observed with uneven cracked surfaces and vegetation growth.\r\n"
+  },
+  {
+    "Uniformat code": "G203003",
+    "uniformat name": "Pedestrian Paving - Paved",
+    "System NAME": "G203003 Pedestrian Paving - Concrete Paved Walkway",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Asphalt and concrete sidewalks were observed around the building. \r\n\r\nCondition:\r\n2025 - The asphalt and concrete sidewalks were observed to have uneven and cracked surfaces, with signs of vegetation growth.\r\n"
+  },
+  {
+    "Uniformat code": "G203003",
+    "uniformat name": "Pedestrian Paving - Paved",
+    "System NAME": "G203003 Pedestrian Paving - Concrete Stone Paved Walkway",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Sidewalk, cast-in-place concrete, 5 thick, 6x6- #10 mesh, broom finish with 2 sand bedding.\r\n\r\nCondition:\r\n2025 - The concrete paved walk is in poor overall condition, with transverse, longitudinal, map and alligator cracking observed at places. Delamination, raveling and settled areas of pavement were also noted, indicating general failure of the concrete.\r\n"
+  },
+  {
+    "Uniformat code": "G203010",
+    "uniformat name": "Pedestrian Paving - Unpaved",
+    "System NAME": "G203010 Pedestrian Paving - Unpaved",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - A grass playing field is provided on the back side of the building. The field includes soccer and play fields.\r\n\r\nCondition:\r\n2025 - The grass field has areas of sparse grass growth with bare patches throughout the field area.\r\n"
+  },
+  {
+    "Uniformat code": "G204001",
+    "uniformat name": "Site Development - Fencing and Gates",
+    "System NAME": "G204001 Fencing and Gates - Chain Link Fence - 10 feet high",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - A wrought iron fence was observed \r\n\r\nCondition:\r\n2025 - The Iron fence was observed to be aged and corroded. "
+  },
+  {
+    "Uniformat code": "G204001",
+    "uniformat name": "Site Development - Fencing and Gates",
+    "System NAME": "G204001 Fencing and Gates - Chain Link Fence - 6 feet high",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Chain link fencing was observed situated around the perimeter of the property\r\n\r\nCondition:\r\n2025 - The chain link fence was observed to be aged and deteriorated beyond its useful life.  Sections were corroded, damaged and missing."
+  },
+  {
+    "Uniformat code": "G204001",
+    "uniformat name": "Site Development - Fencing and Gates",
+    "System NAME": "G204001 Fencing and Gates - Chain Link Fence - 8 feet high",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - A wrought iron fence was observed \r\n\r\nCondition:\r\n2025 - The Iron fence was observed to be aged and corroded. "
+  },
+  {
+    "Uniformat code": "G204001",
+    "uniformat name": "Site Development - Fencing and Gates",
+    "System NAME": "G204001 Fencing and Gates - Wood Fence",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - A retaining wall of flag stone was observed.\r\n\r\nCondition:\r\n2025 - The flag stone retaining wall was observed to be aged and deteriorated with cracked mortar joints and weed growth in the joints .\r\n\r\n"
+  },
+  {
+    "Uniformat code": "G204001",
+    "uniformat name": "Site Development - Fencing and Gates",
+    "System NAME": "G204001 Fencing and Gates - Wrought Iron Fencing",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - A wrought iron fence was observed \r\n\r\nCondition:\r\n2025 - The Iron fence was observed to be aged and corroded. "
+  },
+  {
+    "Uniformat code": "G204002",
+    "uniformat name": "Site Development - Retaining Walls",
+    "System NAME": "G204002 Retaining Walls - Cast in Place",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - A retaining wall of cast in place concrete was observed.\r\n\r\nCondition:\r\n2025 - A retaining wall of cast in place concrete was observed to be aged and worn.  Cracks and water staining were noted."
+  },
+  {
+    "Uniformat code": "G204002",
+    "uniformat name": "Site Development - Retaining Walls",
+    "System NAME": "G204002 Retaining Walls - Gabion",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Retaining walls and stepped retaining walls constructed of timbers and asphalt treads were observed.\r\n\r\nCondition:\r\n2025 - The wood timbers and asphalt steps were observed to be deteriorated,  steps were lower than the level of the timber risers presenting possible trip hazards.  The stairs were observed without railings. "
+  },
+  {
+    "Uniformat code": "G204002",
+    "uniformat name": "Site Development - Retaining Walls",
+    "System NAME": "G204002 Retaining Walls - Precast Concrete Stone",
+    "LIFETIME": 30,
+    "Description": "Description:\r\n2025 - Retaining walls constructed of precast concrete stone were observed.\r\n\r\nCondition:\r\n2025 - The precast concrete stone was observed to be deteriorated and decomposing.   "
+  },
+  {
+    "Uniformat code": "G204002",
+    "uniformat name": "Site Development - Retaining Walls",
+    "System NAME": "G204002 Retaining Walls - Rail Ties",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Retaining walls and stepped retaining walls constructed of timbers and asphalt treads were observed.\r\n\r\nCondition:\r\n2025 - The wood timbers and asphalt steps were observed to be deteriorated,  steps were lower than the level of the timber risers presenting possible trip hazards.  The stairs were observed without railings. "
+  },
+  {
+    "Uniformat code": "G204005",
+    "uniformat name": "Site Development - Signage",
+    "System NAME": "G204005 Signage - Illuminated double face",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Wall mounted building signage was observed. A freestanding sign was also observed.\r\n\r\nCondition:\r\n2025 - The building signage was observed to be aged worn and deteriorated. Lettering was uneven and faded."
+  },
+  {
+    "Uniformat code": "G204005",
+    "uniformat name": "Site Development - Signage",
+    "System NAME": "G204005 Signage - Non-Illuminated double face",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Wall mounted building signage was observed. A freestanding sign was also observed\r\n\r\nCondition:\r\n2025 -  The building signage was observed to be aged worn and deteriorated. Lettering was uneven and faded.\r\n"
+  },
+  {
+    "Uniformat code": "G204005",
+    "uniformat name": "Site Development - Signage",
+    "System NAME": "G204005 Signage - Wall Mounted",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Wall mounted building signage was observed. A freestanding sign was also observed.\r\n\r\nCondition:\r\n2025 - The building signage was observed to be aged worn and deteriorated. Lettering was uneven and faded."
+  },
+  {
+    "Uniformat code": "G204010",
+    "uniformat name": "Site Development - Exterior Stairs",
+    "System NAME": "G204010 Site Development - Exterior Stairs - Concrete Exterior Stairs",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 - Cast-in-place concrete stairs with and without metal railings were observed at various locations on the building exterior.\r\n\r\nCondition:\r\n 2025 - The exterior concrete stairs were observed to have chipped and spalled sections with exposed corroded reinforcing bar and corroded railings. 2025 - The exterior metal stairs and railings were observed with corroded components.\r\n\r\n\r\n\r\n"
+  },
+  {
+    "Uniformat code": "G204010",
+    "uniformat name": "Site Development - Exterior Stairs",
+    "System NAME": "G204010 Site Development - Exterior Stairs - Metal Exterior Stairs",
+    "LIFETIME": 25,
+    "Description": "Description:\r\n2025 -  Exterior metal stairs with painted metal handrails were observed.\r\n\r\nCondition:\r\n2025 -  The exterior metal stairs and railings were observed with corroded components.\r\n\r\n"
+  },
+  {
+    "Uniformat code": "G204071",
+    "uniformat name": "Site Development - Playing Fields - Unpaved",
+    "System NAME": "G204071 Playing Fields - Artificial Turf",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - Unpaved artificial turf playing fields were observed.\r\n\r\nCondition:\r\n2025 - The unpaved playing surfaces were observed to have deteriorated.  Repair of some area is recommended."
+  },
+  {
+    "Uniformat code": "G204071",
+    "uniformat name": "Site Development - Playing Fields - Unpaved",
+    "System NAME": "G204071 Playing Fields - Soccer Field/Football/Baseball Diamond",
+    "LIFETIME": 10,
+    "Description": "Description:\r\n2025 - Unpaved sodded playing fields were observed.\r\n\r\nCondition:\r\n2025 - The unpaved playing surfaces were observed to have barren sections and reportedly inadequate drainage. Water accumulation was observed."
+  },
+  {
+    "Uniformat code": "G204072",
+    "uniformat name": "Site Development - Playing Fields - Paved",
+    "System NAME": "G204072 Playing Fields - Asphalt Running Track",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - Asphalt paved tennis courts were observed.  2025 - A cinder running track was observed. 2025 - A crushed gravel running track was observed. 2025 - An asphalt track was observed around the playing field.\r\n\r\nCondition:\r\n2025 - Asphalt paved tennis courts were observed to be aged worn and deteriorated beyond useful life.  Cracks were observed with grass and weeds growing through. 2025 - The running track was observed to be aged deteriorated overgrown and uneven."
+  },
+  {
+    "Uniformat code": "G204072",
+    "uniformat name": "Site Development - Playing Fields - Paved",
+    "System NAME": "G204072 Playing Fields - Asphalt School Playground",
+    "LIFETIME": 22,
+    "Description": "Description:\r\n2025 - An asphalt paved playground was observed.\r\n\r\nCondition:\r\n2025 - The asphalt paved playground was observed to be aged and worn with, alligator cracking, and uneven surfaces. "
+  },
+  {
+    "Uniformat code": "G204072",
+    "uniformat name": "Site Development - Playing Fields - Paved",
+    "System NAME": "G204072 Playing Fields - Rubberized Running Track",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - An rubberized track was observed around the playing field.\r\n\r\nCondition:\r\n2025 - The rubberized track was observed to be aged worn and deteriorated beyond useful life.  Cracks were observed with grass and weeds growing through."
+  },
+  {
+    "Uniformat code": "G204099",
+    "uniformat name": "Site Development - Other",
+    "System NAME": "G204099 Site Development - Other - Precast Concrete Stone Decks",
+    "LIFETIME": 36,
+    "Description": "Description:\r\n2025 - Site Development includes 6 ft high chain link fencing with 2 post. Chain-link fencing exists around the extents of the property, as well as within the property, bounding play areas and separating the driveway/roadway from the parking area.\r\n\r\nCondition:\r\n2025 - Fencing has reached the end of it's anticipated life.\r\n"
+  },
+  {
+    "Uniformat code": "G204099",
+    "uniformat name": "Site Development - Other",
+    "System NAME": "G204099 Site Development - Other - Traffic Control Device",
+    "LIFETIME": 15,
+    "Description": "Description:\r\n2025 - Site Development includes 6 ft high chain link fencing with 2 post. Chain-link fencing exists around the extents of the property, as well as within the property, bounding play areas and separating the driveway/roadway from the parking area.\r\n\r\nCondition:\r\n2025 - Fencing has reached the end of it's anticipated life.\r\n"
+  },
+  {
+    "Uniformat code": "G204099",
+    "uniformat name": "Site Development - Other",
+    "System NAME": "G204099 Site Development - Other - Wood Decks",
+    "LIFETIME": 20,
+    "Description": "Description:\r\n2025 - Site Development includes 6 ft high chain link fencing with 2 post. Chain-link fencing exists around the extents of the property, as well as within the property, bounding play areas and separating the driveway/roadway from the parking area.\r\n\r\nCondition:\r\n2025 - Fencing has reached the end of it's anticipated life.\r\n"
+  },
+  {
+    "Uniformat code": "G2050",
+    "uniformat name": "Landscaping",
+    "System NAME": "G2050 Landscaping",
+    "LIFETIME": 5,
+    "Description": "Description:\r\n2025 - Landscaping was observed around the school perimeter. Large lawn spaces, mature deciduous and evergreen trees, and several areas of planted shrubs were observed.\r\n\r\nCondition:\r\n2025 -    Trees and shrubs were observed to be deteriorated, and barren lawn surfaces were noted."
+  }
+]
