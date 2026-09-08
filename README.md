@@ -4,7 +4,7 @@ Professional Architectural Assessment Generator designed to produce clinical, te
 
 ## 🚀 Introduction
 
-This application utilizes advanced AI (Groq / Llama 3.3 70B) to transform simple asset data strings into professional architectural reports. It integrates localized data from `Systems.xlsx` to ensure technical accuracy and adheres to strict forensic reporting standards.
+This application utilizes advanced AI (Groq / OpenAI GPT-OSS 120B) to transform simple asset data strings into professional architectural reports. It integrates localized data from `Systems.xlsx` to ensure technical accuracy and adheres to strict forensic reporting standards.
 
 ## 📋 Features
 
@@ -56,7 +56,7 @@ The system expects a specific string format in the input field:
 
 ### Prerequisites
 - Node.js 18+
-- Groq API Key (Llama 3.3 70B Versatile)
+- Groq API Key (OpenAI GPT-OSS 120B)
 
 ### Environment Variables
 Create a `.env.local` file in the root directory:

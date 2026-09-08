@@ -103,12 +103,15 @@ export async function POST(req: Request) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        model: 'llama-3.3-70b-versatile',
+        model: 'openai/gpt-oss-120b',
         messages: [
           { role: 'system', content: systemPrompt },
           { role: 'user', content: `Process: ${assetData}` }
         ],
-        max_tokens: 500,
+        // gpt-oss is a reasoning model: reasoning tokens draw from the same
+        // budget, so keep effort low and leave enough room for the answer.
+        reasoning_effort: 'low',
+        max_completion_tokens: 1500,
         temperature: 0.5
       })
     });
