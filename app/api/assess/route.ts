@@ -77,6 +77,7 @@ export async function POST(req: Request) {
 
       DYNAMIC CONSTRAINTS:
       - Since OYR is ${oyrValue}, current state is: ${isHealthy ? 'HEALTHY' : 'AGED'}.
+      ${oyrValue > 10 ? '- OYR is above 10: keep the Condition section to a single short sentence; it will be replaced with a standard "outside the planning window" note.' : ''}
       - Weighting: Rely heavily on reasoning based on OYR (${oyrValue}), EUL (${assetLifetime}), and Install Year (${installYear}). Use ${templateWeight} of terminology from "Reference Context" and ${ratingWeight} of "Condition Rating Rules".
       - Tonality: Clinical, forensic. 
       - Length: Exactly 1-2 descriptive sentences per section. Max 2 lines per section.
@@ -123,67 +124,41 @@ export async function POST(req: Request) {
       throw new Error(data.error?.message || 'Invalid response from Groq');
     }
 
-    // Ensure the year prefix is added properly and headers are on their own lines
-    const resultLines = result.split('\n');
-    const formattedLines: string[] = [];
+    // Collapse each section into a single line and add ONE dynamic year prefix.
+    const clean = (text: string) =>
+      text
+        .replace(/\*+/g, '') // strip markdown bold/italic markers
+        .split('\n')
+        .map((l) =>
+          l
+            .replace(/^[\s\-:•]+/, '') // leading bullets / dashes / colons
+            .replace(/^\d{4}\s*-\s*/, '') // stray "2026 - " prefixes from the model
+            .trim()
+        )
+        .filter((l) => l.length > 0)
+        .join(' ')
+        .replace(/\s{2,}/g, ' ')
+        .trim();
 
-    resultLines.forEach((line: string) => {
-      const trimmed = line.trim();
-      if (!trimmed) {
-        if (formattedLines.length > 0 && formattedLines[formattedLines.length - 1] !== '') {
-          formattedLines.push('');
-        }
-        return;
-      }
+    const raw = result.replace(/\r/g, '');
+    const descMatch = raw.match(/description:\s*([\s\S]*?)(?=condition:|$)/i);
+    const condMatch = raw.match(/condition:\s*([\s\S]*)/i);
 
-      // Check for headers (case-insensitive) and potential content on the same line
-      const descriptionMatch = trimmed.match(/^Description:\s*(.*)/i);
-      const conditionMatch = trimmed.match(/^Condition:\s*(.*)/i);
+    const descriptionText = descMatch ? clean(descMatch[1]) : clean(raw);
+    let conditionText = condMatch ? clean(condMatch[1]) : '';
 
-      if (descriptionMatch) {
-        formattedLines.push('Description:');
-        const content = descriptionMatch[1].trim();
-        if (content) {
-          const cleanContent = content.replace(/^[\d]{4}\s*\-\s*/, '').replace(/^[\-\:\s]+/, '');
-          formattedLines.push(`${assessmentYear} - ${cleanContent}`);
-        }
-      } else if (conditionMatch) {
-        formattedLines.push('Condition:');
-        const content = conditionMatch[1].trim();
-        if (content) {
-          const cleanContent = content.replace(/^[\d]{4}\s*\-\s*/, '').replace(/^[\-\:\s]+/, '');
-          formattedLines.push(`${assessmentYear} - ${cleanContent}`);
-        }
-      } else {
-        // Normal content line or already prefixed content line
-        // Handle cases where AI might have included the header but it was prefixed by the year (e.g. "2025 - Description:")
-        if (trimmed.toLowerCase().includes('description:')) {
-          formattedLines.push('Description:');
-          const parts = trimmed.split(/description:/i);
-          const content = parts[1].trim();
-          if (content) {
-            const cleanContent = content.replace(/^[\d]{4}\s*\-\s*/, '').replace(/^[\-\:\s]+/, '');
-            formattedLines.push(`${assessmentYear} - ${cleanContent}`);
-          }
-          return;
-        }
-        if (trimmed.toLowerCase().includes('condition:')) {
-          formattedLines.push('Condition:');
-          const parts = trimmed.split(/condition:/i);
-          const content = parts[1].trim();
-          if (content) {
-            const cleanContent = content.replace(/^[\d]{4}\s*\-\s*/, '').replace(/^[\-\:\s]+/, '');
-            formattedLines.push(`${assessmentYear} - ${cleanContent}`);
-          }
-          return;
-        }
+    // Assets with more than 10 years remaining are outside the planning window.
+    if (oyrValue > 10) {
+      conditionText = 'The System is outside the planning window.';
+    }
 
-        const cleanLine = trimmed.replace(/^[\d]{4}\s*\-\s*/, '').replace(/^[\-\:\s]+/, '');
-        formattedLines.push(`${assessmentYear} - ${cleanLine}`);
-      }
-    });
-
-    result = formattedLines.join('\n');
+    result = [
+      'Description:',
+      `${assessmentYear} - ${descriptionText}`,
+      '',
+      'Condition:',
+      `${assessmentYear} - ${conditionText}`,
+    ].join('\n');
 
     return NextResponse.json({ result });
   } catch (error: unknown) {
